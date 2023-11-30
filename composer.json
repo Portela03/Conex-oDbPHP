@@ -1,0 +1,11 @@
+{
+    "name": "admin/atividade-factory",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "monolog/monolog": "^3.5"
+    }
+}
